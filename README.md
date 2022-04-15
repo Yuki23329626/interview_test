@@ -1,2 +1,2 @@
 # interview_test
-collection of test in the interview
+Collection of the tests in the interview
